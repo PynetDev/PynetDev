@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PynetDev
-- 👀 I’m interested in AI & Machine Learning
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on any machine learning projects or internships
+- 👀 I’m interested in latest full stack technologies 
+- 🌱 I’m dotnet full stack professional
+- 💞️ I’m looking to collaborate on any projects or internships
 - 📫 How to reach me - mohankrishnagallavali@gmail.com
 
 <!---
